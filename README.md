@@ -6,14 +6,16 @@ This repository provides a basic boilerplate for building Electron desktop appli
 Node.js and npm (or yarn) installed on your system.
 
 ## Getting Started
-```git clone https://github.com/noahwhlim/electron-react-boilerplate.git```
-```cd electron-react-boilerplate```
-```npm install```
+```git clone https://github.com/noahwhlim/electron-react-boilerplate.git```\
+```cd electron-react-boilerplate```\
+```npm install```\
 ```npm start```
 
 ## Project Structure
 `main.js`: The main process entry point for Electron.
+
 `src/`: Contains the React components and application logic.
+
 `package.json`: Defines project metadata and dependencies.
 
 ## Building for Production
